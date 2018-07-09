@@ -1,4 +1,4 @@
-const base64 = [
+﻿const base64 = [
 	'A','B','C','D','E','F','G','H','I','J','K','L','M',
 	'N','O','P','Q','R','S','T','U','V','W','X','Y','Z',
 	'a','b','c','d','e','f','g','h','i','j','k','l','m',
@@ -63,5 +63,5 @@ export const obj2base = (() => {
 	return key2val(object64, base64);
 })();
 
-export const verbExt = '哈罗';
-export const objExt = '捞趁';
+export const verbExt = 'C位';
+export const objExt = '出道';

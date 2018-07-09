@@ -37,7 +37,7 @@ const gothamEncoder = {
 				// object
 				if (obj2base[curWord]) {
 					gothamDecoded += obj2base[curWord];
-					// skip comma
+				// skip comma
 					i += 1;
 				} else {
 					return '';
